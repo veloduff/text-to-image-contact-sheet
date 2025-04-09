@@ -1,3 +1,6 @@
+# Text-to-Image Contact Sheet
+
+A tool for generating contact sheets from multiple text-to-image model outputs, providing an efficient way to compare different prompts, styles, and parameters.
 
 
 ## Use Bedrock and Stable Diffusion to create a contact sheet with throttling 

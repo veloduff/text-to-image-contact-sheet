@@ -556,3 +556,10 @@ cfg.tmp.json
 
 # Certificate files
 .certificates/
+
+# Don't include bedrock output
+bedrock_output/*
+saved_output/*
+
+# Don't include cusomtized notebook
+my_bedrock_sdxl_contact_sheet.ipynb
